@@ -1,0 +1,68 @@
+{
+  "id": "/#/",
+  "start_url": "/#/",
+  "scope": "/",
+  "name": "Story App",
+  "short_name": "StoryApp",
+  "description": "Aplikasi pelaporan kerusakan fasilitas umum yang memungkinkan warga Indonesia melaporkan masalah secara langsung kepada pemerintah kota. Dengan aplikasi ini, komunikasi antara warga dan pemerintah menjadi lebih efisien dalam menangani dan menindaklanjuti laporan kerusakan fasilitas umum.",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#333",
+  "icons": [
+    {
+      "src": "images/logo-x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo-x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Add New Story",
+      "short_name": "New Story",
+      "description": "Tambah cerita baru",
+      "url": "/#/add",
+      "icons": [
+        {
+          "src": "images/icons/plus-solid-x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshots/StoryApp_1.png",
+      "sizes": "375x667",
+      "type": "image/png",
+      "platform": "web",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshots/StoryApp_2.png",
+      "sizes": "375x667",
+      "type": "image/png",
+      "platform": "web",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshots/StoryApp_3.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "platform": "web",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/StoryApp_4.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "platform": "web",
+      "form_factor": "wide"
+    }
+  ]
+}
